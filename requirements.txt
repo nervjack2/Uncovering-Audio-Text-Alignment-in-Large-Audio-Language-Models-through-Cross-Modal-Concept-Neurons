@@ -1,0 +1,10 @@
+torch>=2.8
+transformers>=4.57
+accelerate
+datasets
+librosa
+soundfile
+numpy
+scipy
+matplotlib
+tqdm

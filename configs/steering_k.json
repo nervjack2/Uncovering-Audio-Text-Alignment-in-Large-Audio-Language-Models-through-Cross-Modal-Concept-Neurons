@@ -1,0 +1,104 @@
+{
+  "qwen2.5-omni-7b": {
+    "animal": {
+      "sheep": 256000,
+      "pig": 256000,
+      "cat": 256000,
+      "frog": 8000,
+      "crow": 256000,
+      "dog": 256000,
+      "hen": 256000,
+      "rooster": 256000,
+      "cow": 256000
+    },
+    "emotion": {
+      "happy": 128000,
+      "angry": 64000,
+      "sad": 128000,
+      "disgust": 128000,
+      "fear": 128000
+    },
+    "gender": {
+      "male": 64000,
+      "female": 64000
+    },
+    "language": {
+      "Korean": 32000,
+      "Spanish": 128000,
+      "Japanese": 32000,
+      "French": 32000,
+      "German": 32000,
+      "Chinese": 32000,
+      "Italian": 32000,
+      "English": 32000
+    }
+  },
+  "desta2.5-audio": {
+    "animal": {
+      "sheep": 16000,
+      "pig": 16000,
+      "cat": 16000,
+      "frog": 16000,
+      "crow": 16000,
+      "dog": 16000,
+      "hen": 16000,
+      "rooster": 16000,
+      "cow": 16000
+    },
+    "emotion": {
+      "happy": 64000,
+      "angry": 64000,
+      "sad": 128000,
+      "disgust": 64000,
+      "fear": 64000
+    },
+    "gender": {
+      "male": 64000,
+      "female": 64000
+    },
+    "language": {
+      "Korean": 64000,
+      "Spanish": 64000,
+      "Japanese": 64000,
+      "French": 128000,
+      "German": 64000,
+      "Chinese": 64000,
+      "Italian": 64000,
+      "English": 32000
+    }
+  },
+  "audio-flamingo-3": {
+    "animal": {
+      "sheep": 64000,
+      "pig": 2000,
+      "cat": 64000,
+      "frog": 64000,
+      "crow": 64000,
+      "dog": 8000,
+      "hen": 64000,
+      "rooster": 64000,
+      "cow": 64000
+    },
+    "emotion": {
+      "happy": 64000,
+      "angry": 64000,
+      "sad": 64000,
+      "disgust": 64000,
+      "fear": 64000
+    },
+    "gender": {
+      "male": 64000,
+      "female": 64000
+    },
+    "language": {
+      "Korean": 32000,
+      "Spanish": 32000,
+      "Japanese": 32000,
+      "French": 32000,
+      "German": 32000,
+      "Chinese": 32000,
+      "Italian": 32000,
+      "English": 32000
+    }
+  }
+}
