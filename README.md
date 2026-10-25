@@ -4,7 +4,7 @@ Code for the paper **Uncovering Audio-Text Alignment in Large Audio-Language Mod
 
 Tzu-Quan Lin, Chih-Kai Yang, Yi-Cheng Lin, Hao Tang, Hung-yi Lee
 
-[[Paper]](https://arxiv.org/abs/XXXX.XXXXX)
+[[Paper]](https://arxiv.org/abs/2610.28189)
 
 The language-model backbone of a large audio-language model (LALM) is pretrained on text alone, yet the
 model recognizes acoustic attributes such as emotion, speaker gender or spoken language. We look for FFN
@@ -92,7 +92,7 @@ Neuron sets are always selected on the validation split. Overlap, steering and d
 @article{lin2026crossmodal,
   title   = {Uncovering Audio-Text Alignment in Large Audio-Language Models through Cross-Modal Concept Neurons},
   author  = {Lin, Tzu-Quan and Yang, Chih-Kai and Lin, Yi-Cheng and Tang, Hao and Lee, Hung-yi},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
+  journal = {arXiv preprint arXiv:2610.28189},
   year    = {2026}
 }
 ```
